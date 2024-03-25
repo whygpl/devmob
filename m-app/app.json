@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "m-app",
-    "slug": "m-app",
+    "name": "devpos",
+    "slug": "devpos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/galea.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
